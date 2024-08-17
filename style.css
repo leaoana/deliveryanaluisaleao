@@ -1,0 +1,208 @@
+#body {margin: 0;
+background-color: #3D1515;}
+
+#divisao {background-color: #3D1515;
+height: 1vh;
+width: 100%;}
+
+#div1 {background-image: url(fundohamburguer.png);
+width: 100%;
+height: 100vh;
+display: flex;
+background-repeat: no-repeat;
+background-size: cover;
+background-position-y: -70px;
+background-color: #222222;}
+
+header {height: 10vh;
+background-color: rgba(0, 0, 0, 50%);
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: space-around;}
+
+
+.nav li {display: inline-block;
+margin-right: 25px;
+font-size: 24px;
+color: #FFF;
+font-family: Anton;}
+
+.logo li {display: inline-block;
+margin-right: 10px;
+color: #FFF;
+font-size: 24px;
+font-family: Anton;}
+
+.logo {display: flex;
+align-items: center;}
+
+#div2 {width: 100%;
+height: 100vh;
+background-color: #222222;
+display: flex;
+margin-bottom: 0px;}
+
+#hmbsobre {padding-top: 20px;
+padding-left: 40px;}
+
+.sobre {margin: 0;}
+
+.sobre2 li {display: inline-block;}
+
+#titulosobre {color: white;
+font-size:50px;
+font-family: Anton;
+padding-bottom: 40px;
+padding-left: 130px;
+padding-top: 30px;}
+
+#txtsobre {color: white;
+font-size: 16px;
+font-family: Anton;
+padding-left: 130px;}
+
+#titulosobre2 {color: white;
+font-size:50px;
+font-family: Anton;}
+
+#chefsobre {display: inline-block;
+color: white;
+font-size: 50px;
+font-family: Anton;
+padding-left: 110px;
+padding-top: 80px;
+padding-bottom: 40px;}
+
+#txtchefsobre {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-left: 110px;}
+
+#mulhersobre {padding-top: 100px;
+padding-left: 170px;}
+
+#div3 {background-color: #222222;
+height: 100vh;
+width: 100%;
+margin-top: 0px;
+display: flex;}
+
+#titulomenu {color: white;
+font-size:50px;
+font-family: Anton;
+display: inline-block;
+padding-left: 110px;
+padding-bottom: 50px;}
+
+#imgmenu1 {padding-left: 110px;
+padding-bottom: 40px;}
+
+#imgmenu2 {padding-left: 110px;
+padding-bottom: 40px;}
+
+#imgmenu3 {padding-left: 110px;
+padding-bottom: 40px;}
+
+#imgmenu4 {padding-left: 110px;
+padding-bottom: 40px;
+padding-top: 110px;}
+    
+#imgmenu5 {padding-left: 110px;
+padding-bottom: 40px;}
+    
+#imgmenu6 {padding-left: 110px;
+padding-bottom: 40px;}
+
+#txtmenu1 {padding-top: 140px;
+display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-bottom: 70px;}
+
+#txtmenu2 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-bottom: 70px;}
+
+#txtmenu3 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;}
+
+#txtmenu4 {padding-top: 140px;
+display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-bottom: 70px;}
+    
+#txtmenu5 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-bottom: 70px;}
+    
+#txtmenu6 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;}
+
+#div4 {background-color: #222222;
+height: 40vh;
+width: 100%;
+display: flex;}
+
+#titulocontato {color: white;
+font-size:50px;
+font-family: Anton;
+display: inline-block;
+padding-left: 110px;
+padding-bottom: 45px;}
+
+#txtcontato1 {display: inline-block;
+color: white;
+font-size: 14px;
+font-family: Anton;
+padding-left: 110px;}
+
+#txtcontato2 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-left: 110px;
+padding-bottom: 40px;}
+
+#txtcontato3 {display: inline-block;
+color: white;
+font-size: 14px;
+font-family: Anton;
+padding-left: 110px;}
+
+#txtcontato4 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-left: 110px;}
+
+#txtcontato5 {display: inline-block;
+color: white;
+font-size: 14px;
+font-family: Anton;
+padding-left: 400px;
+padding-top: 180px;}
+
+#txtcontato6 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-left: 400px;}
+
+a {color: white;
+text-decoration: none;}
+
+a:hover {color: #3D1515;
+transition: 0.5s;}

@@ -1,0 +1,144 @@
+body {margin: 0px;}
+
+#div6 {height: 100vh;
+width: 100%;
+background-color: #222222;
+display: flex;}
+
+#titulocadastro {color: white;
+font-size:50px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;
+padding-bottom: 90px;}
+
+#txtcadastro1 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;}
+
+#txtcadastro2 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;}
+
+#txtcadastro3 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;}
+
+#txtcadastro4 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;}
+
+#txtcadastro5 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;
+padding-top: 166px;}
+
+#txtcadastro6 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;}
+
+#txtcadastro7 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;}
+
+#txtcadastro8 {color: white;
+font-size:16px;
+font-family: Anton;
+display: inline-block;
+padding-left: 0px;}
+
+#caixatxt1 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+
+#caixatxt2 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+
+#caixatxt3 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+
+#caixatxt4 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+
+#caixatxt5 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+
+#caixatxt6 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+
+#caixatxt7 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+
+#caixatxt8 {background-color: grey;
+color: white;
+font-family: Anton;
+font-size: 16px;
+border: none;
+padding-right: 40px;
+margin-bottom: 50px;}
+    
+#cadastro {padding-left: 110px;}
+
+#cadastro2 {padding-left: 200px;}
+
+a {color: white;
+text-decoration: none;
+font-size: 16px;
+font-family: Anton;}
+
+a:hover {color: #3D1515;
+transition: 0.5s;}
+
+button {background-color: grey;
+border-radius: 40%;
+border: none;
+margin-left: 250px;
+margin-top: 550px;}

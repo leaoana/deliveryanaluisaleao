@@ -1,0 +1,84 @@
+body {margin: 0;}
+
+#div5 {height: 100vh;
+width: 100%;
+background-color: #222222;
+display: flex;}
+
+#titulopedido {color: white;
+font-size:50px;
+font-family: Anton;
+display: inline-block;
+padding-left: 110px;
+padding-bottom: 90px;}
+
+#txtpedido1 {padding-left: 110px;
+font-size: 25px;
+font-family: Anton;
+color: white;
+display: inline-block;}
+
+#txtpedido2 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-top: 170px;
+padding-bottom: 60px;}
+
+#txtpedido3 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;}
+
+#txtpedido4 {display: inline-block;
+color: white;
+font-size: 80px;
+font-family: Anton;
+padding-top: 170px;
+padding-bottom: 90px;
+padding-left: 50px;}
+
+#txtpedido5 {display: inline-block;
+color: white;
+font-size: 80px;
+font-family: Anton;
+padding-left: 50px;}
+
+#txtpedido6 {display: inline-block;
+color: white;
+font-family: Anton;
+padding-top: 80px;}
+
+#btntxtpedido6 {color: white;
+font-family: Anton;
+background-color: grey;
+border-radius: 40%;
+font-size: 19px;
+border: none;}
+
+#txtpedido7 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;
+padding-top: 170px;
+padding-bottom: 70px;}
+
+#txtpedido8 {display: inline-block;
+color: white;
+font-size: 16px;
+font-family: Anton;}
+
+#imgpedido1 {padding-left: 110px;
+padding-bottom: 60px;}
+
+#imgpedido2 {padding-left: 110px;
+padding-bottom: 40px;}
+
+#imgpedido3 {padding-top: 170px;
+padding-bottom: 60px;}
+
+a {color: white;
+text-decoration: none;}
+
+a:hover {color: #3D1515;
+transition: 0.5s;}
